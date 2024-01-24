@@ -1,4 +1,4 @@
-![image](https://github.com/prathvi02/Salt-segmentation-using-deep-learning/assets/73091532/af74a6ee-b3ae-44ba-bf8e-9d4dc2b08b91)# Salt-segmentation-using-deep-learning
+# Salt-segmentation-using-deep-learning
 Implemented advanced FCNN for salt detection in seismic images, crucial for mining. Emphasis on the difficulty of accurate salt detection and the necessity for a reliable automated algorithm.
 
 ##About Dataset
